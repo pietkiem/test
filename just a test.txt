@@ -1,2 +1,9 @@
 
 ok  marek 4
+
+
+function test(){
+
+  return 'ok';
+  
+}
