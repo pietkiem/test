@@ -1,5 +1,18 @@
 
+
 ok  marek 33
+<<<<<<< .mine
 
 
+=======
+
+
+>>>>>>> .theirs
 czy zmieniono?
+
+
+function test(){
+
+  return 'ok';
+  
+}
