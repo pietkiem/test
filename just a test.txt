@@ -1,1 +1,12 @@
-ok 222
+
+
+ok  marek 33
+
+czy zmieniono?
+
+
+function test(){
+
+  return 'ok';
+  
+}
